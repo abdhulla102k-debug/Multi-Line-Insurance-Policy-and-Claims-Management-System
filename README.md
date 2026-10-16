@@ -24,6 +24,3 @@ Manual and inconsistent policy quoting, premium calculation, and claims handling
 
 ## Tech Stack
 Salesforce, Apex, Flows, Lightning Web Components
-
-## Author
-dhanasri1510
